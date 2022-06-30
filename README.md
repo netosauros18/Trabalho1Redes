@@ -2,7 +2,7 @@
 
 Manipulaçao e envio de matrizes entre maquinas da mesma rede.
 
-1)Configurar IPs:
+1)<h1 align="center">Configurar IPs)</h1>
 
 Em 'prog1', na linha 9 do programa, deve-se colocar o IP local da maquina que ira rodar o 'prog2', na linha 9 do codigo 'prog2' deve-se colocar o IP da maquina que ira rodar 'prog3'.
 
