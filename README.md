@@ -25,7 +25,7 @@ Os programas devem ser rodados em maquinas da mesma rede, com o programa 2 e 3 r
 Apos feito isso, o programa 2 ira calcular a determinante e a inversa desta matriz e o programa 3 ira exibir isto, juntamente com o tempo levado para ser feito isso com cada matriz enviada.
 
 
-obs:O mesmo diretorio de todos os programas devem possuir o arquivo 'particionar.py' que auxilia no particionamento dos dados para o envio.
+obs : O mesmo diretorio de todos os programas devem possuir o arquivo 'particionar.py' que auxilia no particionamento dos dados para o envio.
 
 
 
