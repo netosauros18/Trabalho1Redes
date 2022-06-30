@@ -1,4 +1,4 @@
-<h1 align="center">Projeto(Trabalho utilizando socket para envio de dados entre maquinas.)</h1>
+<h1 align="center">Projeto(Trabalho utilizando socket para envio de dados)</h1>
 
 
 
