@@ -2,6 +2,9 @@
 
 
 
+Este projeto tem o intuito de realizar a comunicação de 3 máquinas através do socket, onde a máquina 1 define o tamanho e quantas matrizes serão enviadas, a máquina 2 realiza os cálculos de determinante e inversa e a máquina 3 exibe os resultados e o tempo levado para este processo. 
+
+
 
 
 
