@@ -19,11 +19,11 @@ Os programas devem ser rodados em maquinas da mesma rede, apos feito o download,
 
 prog1  :   
 ~~~
-python3 prog1.py IP DA MAQUINA QUE IRA RODAR O PROG2
+python3 prog1.py <IP DA MAQUINA QUE IRA RODAR O PROG2>
 ~~~
 prog2  :   
 ~~~
-python3 prog2.py IP DA MAQUINA QUE IRA RODAR O PROG3
+python3 prog2.py <IP DA MAQUINA QUE IRA RODAR O PROG3>
 ~~~
 prog3  :   
 ~~~
