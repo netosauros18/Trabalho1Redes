@@ -16,7 +16,7 @@ udp = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 dest= (HOST , PORT)
 for i in range(b):
-	time.sleep(a/900)
+	time.sleep(a/500)
 	tempo = time.time()
 	matriz = np.random.randint(10, size=(a,a))
 	print(matriz)
