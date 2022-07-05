@@ -31,7 +31,7 @@ python3 prog3.py
 ~~~
 
 Com o programa 2 e 3 rodando, execute o programa 1 e escolha a dimensao da matriz a ser enviada e a quantidade de matrizes, matrizes maiores que 250x250 possuem determinantes com valores que atingem o overflow dos 64bits que os calculos do numpy utilizam, funcionamento eficiente para matrizes ate 300x300.
-Apos feito isso, o programa 2 ira calcular a determinante e a inversa desta matriz e o programa 3 ira exibir isto, juntamente com o tempo levado para ser feito isso com cada matriz enviada.
+Apos feito isso, o programa 2 ira calcular a determinante e a inversa desta matriz e o programa 3 ira exibir isto, juntamente com o tempo levado para ser feito isso para cada matriz enviada.
 
 
 obs : O mesmo diretorio de todos os programas devem conter o arquivo 'particionar.py' que auxilia no particionamento dos dados para o envio.
