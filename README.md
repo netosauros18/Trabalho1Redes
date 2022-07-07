@@ -5,14 +5,13 @@
 Este projeto tem o intuito de realizar a comunicação de 3 máquinas através do socket, onde a máquina 1 define o tamanho e quantas matrizes serão enviadas, a máquina 2 realiza os cálculos de determinante e inversa e a máquina 3 exibe os resultados e o tempo levado para este processo. 
 
 
+<h1 align="center">1 - Sincronizar maquinas</h1>
 
-
-<h1 align="center">2 - Sincronizar maquinas</h1>
-
+Inicialmente é nescessário fazer a sincronia das máquinas para a contagem do tempo de processo.
 Deve-se configurar a maquina que ira rodar o 'prog2' como um servidor NTP, e como clientes dela as maquinas de 'prog1' e 'prog3'.
 Segue o link com tutorial simplificado para configurar servidor/cliente NTP >>>"https://pt.linux-console.net/?p=262"<<<.
 
-<h1 align="center">3 - Rodar programas</h1>
+<h1 align="center">2 - Rodar programas</h1>
 
 
 Os programas devem ser rodados em maquinas da mesma rede, apos feito o download, os seguinter comandos devem ser usados para a execuçao dos mesmos:
